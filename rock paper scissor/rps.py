@@ -1,7 +1,7 @@
 import random    #for randint function	
 import time      #for sleep function
 
-print("\n\n\t\t\tWelcome to the game---- ROCK , PAPER and SCISSORS")
+print("\n\n\t\t\t Hello & Welcome to the game---- ROCK , PAPER and SCISSORS")
 time.sleep(2)           #two sec delay
 
 def print_value(choice):               #function to print value
